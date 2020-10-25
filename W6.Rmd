@@ -4,6 +4,8 @@ author: "Peter Thramkrongart"
 output: github_document
 ---
 
+##disclaimer: I did not include any loops in this assignment, as I think loops are dumb, hard to read, and are often much slower than vectorized functions
+
 
 Define a defensive function that calculates the Gross Domestic Product of a nation from the data available in the gapminder dataset. Using that function, calculate the GDP of Denmark in the following years: 1967, 1977, 1987, 1997, 2007, and 2017. 
 
